@@ -15,7 +15,7 @@ python scripts/confidence_after_answer_important_decisions_llama.py
 
 ## Aggregate results
 
-python scripts/result_aggregate.py --cot "cot" --model Llama-3.3-70b-instruct --datasets_list "0123456" --dates "01-08-16-05"
+python scripts/result_aggregate.py --cot "cot" --model Llama-3.3-70b-instruct --datasets_list "0123456"  
 
 ## Visualization and evaluation
 
