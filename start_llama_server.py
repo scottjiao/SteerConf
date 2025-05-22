@@ -4,7 +4,7 @@ import socket
 import json
 import pickle
 from huggingface_hub import login
-login("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")
+login("")  # your huggingface id to access llama-3.3-70b-instruct
 
 def start_model_server(host='localhost', port=12370):
     # Load model once

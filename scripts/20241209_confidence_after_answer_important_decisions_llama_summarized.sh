@@ -1,8 +1,4 @@
-#!/bin/bash
-
-# prompt strategy = "vanilla" (can be changed to ["cot"] -> then use_cot flag should be set to true in the following script)
-# sampling strategy = "self-random" or "misleading" ->  by setting NUM_ENSEMBLE to decide the number of samples we want to draw from a given question
-# aggregator = no aggregator is used since num_ensemble is set to 1
+ 
 PROMPT_TYPE="confidence_after_answer_important_decisions_summarized"
 SAMPLING_TYPE="self_random" 
 NUM_ENSEMBLE=1
