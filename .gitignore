@@ -1,0 +1,8 @@
+
+#dataset
+dataset/
+*.log
+#*.png
+*.pdf
+*.txt
+*.pyc
