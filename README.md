@@ -2,7 +2,7 @@
 # Release code of SteerConf: Steering LLMs for Confidence Elicitation
 Ziang Zhou, Tianyuan Jin, Jieming Shi, Qing Li (https://arxiv.org/pdf/2503.02863)
 
-
+*2025/09/19* Our work SteerConf has been accepted by NeurIPS 25!
  
 
 ## How to run SteerConf 
