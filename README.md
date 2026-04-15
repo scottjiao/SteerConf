@@ -322,5 +322,5 @@ If you find this work useful, please cite our paper:
 
 ## License
 
-This project is released for academic and research purposes. Please refer to the repository for specific license terms.
+This project is released under the [MIT License](LICENSE).
 
