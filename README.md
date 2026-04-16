@@ -9,7 +9,7 @@
 >
 > [Ziang Zhou](https://github.com/scottjiao), Tianyuan Jin, Jieming Shi, Qing Li
 >
-> **NeurIPS 2025** &nbsp;|&nbsp; [Paper (arXiv)](https://arxiv.org/abs/2503.02863)
+> [NeurIPS 2025](https://neurips.cc/virtual/2025/loc/san-diego/poster/119826) &nbsp;|&nbsp; [Paper (arXiv)](https://arxiv.org/abs/2503.02863)
 
 ---
 
