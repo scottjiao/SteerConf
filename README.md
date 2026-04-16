@@ -2,7 +2,7 @@
 # SteerConf: Steering LLMs for Confidence Elicitation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.02863-b31b1b.svg)](https://arxiv.org/abs/2503.02863)
-[![Venue](https://img.shields.io/badge/NeurIPS-2025-blue.svg)](#)
+[![Venue](https://img.shields.io/badge/NeurIPS-2025-blue.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/119826)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
 > **SteerConf: Steering LLMs for Confidence Elicitation**
